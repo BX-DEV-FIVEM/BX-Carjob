@@ -101,7 +101,7 @@ Config.ListeJobs = {
 
 **Live Preview** 
 
-[YOUTUBE](https://www.youtube.com/watch?v=iwh8WPVx_PQ)
+[YOUTUBE](https://github.com/BX-DEV-FIVEM/BX-Carjob)
 
 ![BX-Carjob](https://github.com/BX-DEV-FIVEM/BX-Carjob/assets/140925178/175b9e32-cd09-4350-b4f0-dfe2fdd6c2b6)
 
