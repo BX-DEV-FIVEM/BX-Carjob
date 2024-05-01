@@ -9,7 +9,7 @@ if Config.CheckUpdate then
         Wait(5000)
         local resourceName = GetCurrentResourceName()
         local currentVersion = GetResourceMetadata(resourceName, 'version', 0)
-        local versionUrl = 'https://raw.githubusercontent.com/xB3NDO/CARJOB/main/version.lua'
+        local versionUrl = 'https://raw.githubusercontent.com/BX-DEV-FIVEM/BX-Carjob/main/version.lua'
 
         PerformHttpRequest(versionUrl, function(error, result, headers)
             if error ~= 200 then
