@@ -6,10 +6,13 @@
 ![2](https://github.com/BX-DEV-FIVEM/BX-Carjob/assets/140925178/3e3aeafa-d53e-42b1-8b5e-f8dddd36e826)
 
 
-**Features**
+
 
 
 * ****
+
+**Features**
+
 
 
 * **🚓 Job-Specific Vehicle Restrictions**: Only players with specified jobs can use certain vehicles.
@@ -25,6 +28,15 @@
 * **♻️ Compatibility with Older Versions of ESX**: Support for older versions of ESX for better flexibility.
 
 * **🟢 Maximum Optimization**: Zero minimal impact on performance (0.00 ms).
+
+* ****
+
+**Dependency**
+
+* **ESX**
+  
+* **OKOKNotify** ( optional )
+
 
 
 * ****
