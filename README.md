@@ -88,6 +88,12 @@ Config.ListeJobs = {
 
 ***
 
+**BX-DOCUMENTATION**
+
+[DOCUMENTATION](https://bx-devs.gitbook.io/doc)
+
+***
+
 For any questions or support, feel free to join us !
 
 [![Discord](https://github.com/BX-DEV-FIVEM/BX-Carjob/assets/140925178/6b508333-aa27-44ff-9b3c-9030b00c1f28)](https://discord.gg/GhAcTjNcu8)
