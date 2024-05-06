@@ -5,7 +5,9 @@
 ![2](https://github.com/BX-DEV-FIVEM/BX-Carjob/assets/140925178/3e3aeafa-d53e-42b1-8b5e-f8dddd36e826)
 
 ***
+**Carlock system based on player job, allowing for the protection of specific vehicles without the need for keys**
 
+***
 **Features**
 
 * **🚓 Job-Specific Vehicle Restrictions**: Only players with specified jobs can use certain vehicles.
